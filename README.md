@@ -1,6 +1,8 @@
 # Road Sign Detection Computer Vision Project
 Date: January, 2022
+
 Dataset: Road-Signs from MakeML: https://makeml.app/datasets/road-signs
+  
   download path: https://arcraftimages.s3-accelerate.amazonaws.com/Datasets/RoadSigns/RoadSignsPascalVOC.zip?region=us-east-2
 
 Project Steps: 
